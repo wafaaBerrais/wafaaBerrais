@@ -34,7 +34,7 @@
 | 💬 **[NLP: sentiment & authorship](https://github.com/wafaaBerrais/nlp-sentiment-and-authorship-classification)** | Movie-review sentiment and Chirac vs Mitterrand speaker attribution | RoBERTa *head+tail* + SVM ensemble, CamemBERT with document context · **F1 93.1** |
 | 📱 **[ChatPhone: RAG chatbot](https://github.com/wafaaBerrais/chatphone-rag-smartphone-recommender)** | Recommending smartphones grounded in Amazon reviews | Sentence-BERT + FAISS retrieval, sentiment-filtered indexes, Qwen3 via Ollama, FastAPI / Flask |
 | 🔍 **[Passage retrieval reproduction](https://github.com/wafaaBerrais/projet-ri)** | Reproducing *Retrieving Passages and Finding Answers* on TREC-DL 2019 | QL, SDM, positional models, relevance feedback, character-level evaluation (PyTerrier) |
-| 🔥 **[Forest fire prediction in Béjaïa](https://github.com/wafaaBerrais/forest-fire-prediction-bejaia)**<br/><sub>Bachelor's final project</sub> | Predicting fire risk from vegetation, soil, weather and topography | 1.6M-row geospatial dataset, extreme imbalance, XGBoost, GIS risk map, Django / Leaflet app |
+| 🔥 **[Forest fire prediction in Béjaïa](https://github.com/wafaaBerrais/forest-fire-prediction-bejaia)**<br/><sub>Bachelor's final project · LSI lab, USTHB</sub> | Predicting fire risk from vegetation, soil, weather and topography | 1.6M-row geospatial dataset, extreme imbalance, XGBoost, GIS risk map, Django / Leaflet app |
 
 <details>
 <summary><b>More projects</b> (optimisation, databases, mobile)</summary>
