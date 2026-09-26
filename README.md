@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Location-Paris%2C%20France-4B5563?style=flat-square&logo=googlemaps&logoColor=white" alt="Paris, France"/>
 </p>
 
-> 🔎 **Looking for a 6-month internship in AI / Data Science / Machine Learning, starting March 2027.**
+>  **Looking for a 6-month internship in AI / Data Science / Machine Learning, starting March 2027.**
 > Open to research labs and companies, anywhere in France (on-site, hybrid or remote).
 
 ---
